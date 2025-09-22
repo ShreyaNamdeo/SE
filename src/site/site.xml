@@ -1,0 +1,12 @@
+<project name="EduAssessPro Site">
+  <body>
+    <menu name="Project Info">
+      <item name="Summary" href="summary.html"/>
+      <item name="Dependencies" href="dependencies.html"/>
+      <item name="Licenses" href="licenses.html"/>
+      <item name="SCM" href="scm.html"/>
+      <item name="Issue Management" href="issue-management.html"/>
+      <item name="Team" href="team.html"/>
+    </menu>
+  </body>
+</project>
